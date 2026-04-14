@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-I'm Damian
-
 I'm Damian, a Data Science & AI student based in Switzerland.
 
 I analyze and model stuff I find interesting.
